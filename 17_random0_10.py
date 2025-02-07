@@ -1,3 +1,4 @@
 import random
-numero=random.random(0,10)
+numero=random.random()
+numero*=10
 print(numero)

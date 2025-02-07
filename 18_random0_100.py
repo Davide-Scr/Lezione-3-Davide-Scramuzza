@@ -1,3 +1,4 @@
 import random
-numero=random.random(0,100)
+numero=random.random()
+numero*=100
 print(numero)
